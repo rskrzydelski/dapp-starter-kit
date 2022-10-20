@@ -1,8 +1,8 @@
-# Dapp starter kit
+<p align="center">Dapp starter kit</p>
 
 Starter kit with basic functionality for dapp.
 
-## it includes following functionality:
+<p>it includes following functionality:</p>
 - button for connect/disconnect to wallet
 - fetch and display current account
 - fetch and display ETH balance
